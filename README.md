@@ -13,10 +13,10 @@ To run this application successfully, you must have the backend service running 
 ### 1. Backend Setup (Required)
 The mobile application depends on the backend API. Please follow these steps to set up the backend:
 
-- **Repository:** [Graduation Web Repository](https://github.com/mohamed-alkasem/graduation_web)
+- **Repository:** [Graduation Web Repository](https://github.com/osamaasker30/GraduationProject)
 - **Clone the backend:**
   ```bash
-  git clone [https://github.com/mohamed-alkasem/graduation_web.git](https://github.com/mohamed-alkasem/graduation_web.git)
+  git clone [https://github.com/osamaasker30/GraduationProject.git](https://github.com/osamaasker30/GraduationProject.git)
   Configuration: - Navigate to the backend project folder.
 
 Create an appsettings.json file.
